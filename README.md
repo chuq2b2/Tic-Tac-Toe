@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Tic Tac Toe - React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I learned to create my tic-tac-toe game inspired by https://github.com/CodeCompleteYT/react-tic-tac-toe/
+
+
+## Technologies Used
+
+- **React**: The app is built using the React library for building user interfaces.
+- **JavaScript**: JavaScript is used for game logic and interactivity.
+- **CSS**: Styling is done using CSS to make the app visually appealing.
+- **HTML**: The app structure is created using HTML.
+
+## How to Play
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the required dependencies.
+4. Run `npm start` to start the development server.
+5. Open your web browser and go to `http://localhost:3000` to play the game.
+
 
 ## Available Scripts
 
