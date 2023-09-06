@@ -20,7 +20,9 @@ I learned to create my tic-tac-toe game inspired by https://github.com/CodeCompl
 4. Run `npm start` to start the development server.
 5. Open your web browser and go to `http://localhost:3000` to play the game.
 
-
+## Future Implements
+1. Add a second online player (With computer)
+2. Announce the winner after someone reach a certain goal
 ## Available Scripts
 
 In the project directory, you can run:
